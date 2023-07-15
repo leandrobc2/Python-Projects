@@ -10,3 +10,4 @@ print('-' * 20)
 a = float(input('Type the height: '))
 b = float(input('Type the base: '))
 area(a, b)
+
