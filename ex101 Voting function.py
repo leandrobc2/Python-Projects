@@ -12,6 +12,5 @@ def vote(y):
 
 
 year = int(input('Year of birth: '))
-vote(year)
-
-
+result = vote(year)
+print(result)
