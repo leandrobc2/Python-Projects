@@ -16,7 +16,7 @@ def factorial(n, show=False):
     return result
 
 
-print(factorial(5))
+print(factorial(777))
 
 
 
